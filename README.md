@@ -20,15 +20,18 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadrezaafroozi](https://github.com/mohammadrezaafroozi)
 
 - 💬 Ask me about **js,react,tailwind** <br>
- ![piza-ninjas-pizzaninjas-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9fdbe42f-38c8-4abf-a00d-38cba0f61c33)
-  ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/1ffaae18-d964-46ca-ad2e-ac18fc428b53)
+
+ 
 
 <a href="https://www.linkedin.com/in/afroozidev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/1ffaae18-d964-46ca-ad2e-ac18fc428b53)</a>
 
-- 📫 How to reach me **mohammadrezaafroozi@gmail.com**
+  ![216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011](https://github.com/user-attachments/assets/ba5d1395-20bd-40c2-88aa-6d004714d787)
+  How to reach me **mohammadrezaafroozi@gmail.com**
  
+ 
+![piza-ninjas-pizzaninjas-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9fdbe42f-38c8-4abf-a00d-38cba0f61c33)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://www.linkedin.com/in/afroozidev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-rerza-afroozi" height="30" width="40" /></a>
 <a href="https://instagram.com/afroozi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afroozi_dev" height="30" width="40" /></a>
