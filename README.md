@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm MohammadReza Afroozi</h1>
 <h3 align="center">A passionate frontend developer</h3>
+https://github.com/user-attachments/assets/09014535-ebab-4f1f-ae3c-db6d654d4810
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrezaafroozi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrezaafroozi" /> </p>
 
@@ -10,7 +13,7 @@
 - 💬 Ask me about **js,react,tailwind**
 
 - 📫 How to reach me **mohammadrezaafroozi@gmail.com**
-- ![snake gif](https://github.com/mohammadrezaafroozi/mohammadrezaafroozi/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/mohammadrezaafroozi/mohammadrezaafroozi/blob/output/github-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
