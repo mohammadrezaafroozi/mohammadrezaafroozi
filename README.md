@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MohammadReza Afroozi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-![coding](https://github.com/user-attachments/assets/771b759c-7bbc-4102-875d-355258cb6cd5)
+
+![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81)
 
 
 
