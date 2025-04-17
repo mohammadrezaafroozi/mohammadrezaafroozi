@@ -17,13 +17,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadrezaafroozi" alt="mohammadrezaafroozi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadrezaafroozi](https://github.com/mohammadrezaafroozi)
+- 👨‍💻 All of my projects are available at [github](https://github.com/mohammadrezaafroozi)<a href="https://github.com/mohammadrezaafroozi" target="blank"> ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/1ffaae18-d964-46ca-ad2e-ac18fc428b53)</a>
 
 - 💬 Ask me about **js,react,tailwind** <br>
 
  
 
-<a href="https://www.linkedin.com/in/afroozidev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/1ffaae18-d964-46ca-ad2e-ac18fc428b53)</a>
+
 
   ![216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011](https://github.com/user-attachments/assets/ba5d1395-20bd-40c2-88aa-6d004714d787)
   How to reach me **mohammadrezaafroozi@gmail.com**
