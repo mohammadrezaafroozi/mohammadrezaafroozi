@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
+![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/2cd5cf9a-46d5-4126-88a5-a0d509b23915)
+
 ![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81) 
 ![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)
 ![hello-world-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f218d9f7-6867-4792-b032-1644a2ee5a7f)
@@ -9,8 +11,6 @@
 
 
 ![snake gif](https://github.com/mohammadrezaafroozi/mohammadrezaafroozi/blob/output/github-snake-dark.svg)
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrezaafroozi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrezaafroozi" /> </p>
@@ -27,14 +27,11 @@
 
   ![216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011](https://github.com/user-attachments/assets/ba5d1395-20bd-40c2-88aa-6d004714d787)
   How to reach me **mohammadrezaafroozi@gmail.com**
- 
- 
-![piza-ninjas-pizzaninjas-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9fdbe42f-38c8-4abf-a00d-38cba0f61c33)
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
-<a href="https://www.linkedin.com/in/afroozidev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-rerza-afroozi" height="30" width="40" /></a>
-<a href="https://instagram.com/afroozi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afroozi_dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/afroozidev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="mohammad-rerza-afroozi" height="160" width="160" /></a>
+<a href="https://instagram.com/afroozi_dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="afroozi_dev" height="160" width="160" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
