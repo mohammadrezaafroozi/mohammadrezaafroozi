@@ -2,7 +2,14 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81)
+![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81) 
+![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)
+![hello-world-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f218d9f7-6867-4792-b032-1644a2ee5a7f)
+![elbformat-coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e6c12744-96bc-4098-91df-8377be991683)
+
+
+![snake gif](https://github.com/mohammadrezaafroozi/mohammadrezaafroozi/blob/output/github-snake-dark.svg)
+
 
 
 
@@ -13,12 +20,13 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadrezaafroozi](https://github.com/mohammadrezaafroozi)
 
 - 💬 Ask me about **js,react,tailwind** <br>
-  <div align='center> ![piza-ninjas-pizzaninjas-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9fdbe42f-38c8-4abf-a00d-38cba0f61c33)>
-    </div>
+ ![piza-ninjas-pizzaninjas-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9fdbe42f-38c8-4abf-a00d-38cba0f61c33)
+  ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/1ffaae18-d964-46ca-ad2e-ac18fc428b53)
 
+<a href="https://www.linkedin.com/in/afroozidev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/1ffaae18-d964-46ca-ad2e-ac18fc428b53)</a>
 
 - 📫 How to reach me **mohammadrezaafroozi@gmail.com**
- ![snake gif](https://github.com/mohammadrezaafroozi/mohammadrezaafroozi/blob/output/github-snake-dark.svg)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
