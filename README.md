@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm MohammadReza Afroozi</h1>
 <h3 align="center">A passionate frontend developer</h3>
-https://github.com/user-attachments/assets/09014535-ebab-4f1f-ae3c-db6d654d4810
+
+![coding](https://github.com/user-attachments/assets/771b759c-7bbc-4102-875d-355258cb6cd5)
 
 
 
