@@ -2,13 +2,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=127B0D&center=true&vCenter=true&width=1000&lines=🟢🟢🟢welcome+to+my+GitHub+profile🟢🟢🟢)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=127B0D&center=true&vCenter=true&multiline=true&width=635&height=100&lines=👋++Hello!+I'm+MohammadReza+Afroozi+;A+passionate+frontend+developer)](https://git.io/typing-svg)
+![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)
+
+
+
+
 
 ![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/2cd5cf9a-46d5-4126-88a5-a0d509b23915)
 
 ![snake gif](https://github.com/mohammadrezaafroozi/mohammadrezaafroozi/blob/output/github-snake-dark.svg)
 
 ![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81) 
-![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)
+![GhostedvpnHackerCatGIF](https://github.com/user-attachments/assets/b797db1e-40f5-4cc6-8448-19b45932db52)
 ![hello-world-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f218d9f7-6867-4792-b032-1644a2ee5a7f)
 
 
