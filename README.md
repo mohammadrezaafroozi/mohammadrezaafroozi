@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm MohammadReza Afroozi</h1>
+
 <h3 align="center">A passionate frontend developer</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=127B0D&center=true&width=435&lines=++Hello!+I'm+MohammadReza+Afroozi;welcome+to+my+github+profile)](https://git.io/typing-svg)
 
 ![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/2cd5cf9a-46d5-4126-88a5-a0d509b23915)
 
@@ -9,6 +10,8 @@
 ![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81) 
 ![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)
 ![hello-world-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f218d9f7-6867-4792-b032-1644a2ee5a7f)
+
+
 
 
 
