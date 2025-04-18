@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=127B0D&center=true&vCenter=true&width=704&lines=🟢🟢🟢welcome+to+my+GitHub+profile🟢🟢🟢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=127B0D&center=true&vCenter=true&width=1000&lines=🟢🟢🟢welcome+to+my+GitHub+profile🟢🟢🟢)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=127B0D&center=true&vCenter=true&multiline=true&width=635&height=100&lines=👋++Hello!+I'm+MohammadReza+Afroozi+;A+passionate+frontend+developer)](https://git.io/typing-svg)
 
