@@ -8,8 +8,7 @@
 ![snake gif](https://github.com/mohammadrezaafroozi/mohammadrezaafroozi/blob/output/github-snake-dark.svg)
 
 ![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81) 
-![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)
-![HelloWorldSeytonicGIF](https://github.com/user-attachments/assets/d6e17c29-d4a1-45e5-a1f9-ddd68cd0f587)
+![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)![HelloWorldSeytonicGIF](https://github.com/user-attachments/assets/d6e17c29-d4a1-45e5-a1f9-ddd68cd0f587)
 
 
 
