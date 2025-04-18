@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=127B0D&width=700&lines=🟢🟢++++welcome+to+my+github+profile++++🟢🟢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=127B0D&width=700&lines=🟢🟢🟢++++welcome+to+my+github+profile++++🟢🟢🟢)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=127B0D&center=true&width=635&lines=++Hello!+I'm+MohammadReza+Afroozi+;A+passionate+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=127B0D&center=true&vCenter=true&multiline=true&width=635&height=100&lines=👋++Hello!+I'm+MohammadReza+Afroozi+;A+passionate+frontend+developer)](https://git.io/typing-svg)
 
 ![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/2cd5cf9a-46d5-4126-88a5-a0d509b23915)
 
