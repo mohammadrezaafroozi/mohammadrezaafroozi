@@ -9,7 +9,6 @@
 
 ![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81) 
 ![hacker-hacker-man-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dca4545f-6c31-4555-a6fc-4a2862dab831)
-![hello-world-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f218d9f7-6867-4792-b032-1644a2ee5a7f)
 ![HelloWorldSeytonicGIF](https://github.com/user-attachments/assets/d6e17c29-d4a1-45e5-a1f9-ddd68cd0f587)
 
 
