@@ -14,25 +14,13 @@
 
 ![coding-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dd3862c-a2e5-454d-81c8-ca3ea1ff8e81) ![ScalerCreateImpactGIF](https://github.com/user-attachments/assets/5c85df7a-46b3-4e25-902e-35477e35b65a)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrezaafroozi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrezaafroozi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadrezaafroozi" alt="mohammadrezaafroozi" /></a> </p>
 
 👨‍💻 All of my projects are available at [github](https://github.com/mohammadrezaafroozi)<a href="https://github.com/mohammadrezaafroozi" target="blank"> ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/1ffaae18-d964-46ca-ad2e-ac18fc428b53)</a>
+![GhostedvpnHackerCatGIF](https://github.com/user-attachments/assets/b797db1e-40f5-4cc6-8448-19b45932db52)
+
 
   💬 Ask me about **js,react,tailwind** <br>
 
@@ -41,7 +29,7 @@
 
 
  <span align:center> ![216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011](https://github.com/user-attachments/assets/ba5d1395-20bd-40c2-88aa-6d004714d787)
-  How to reach me: **mohammadrezaafroozi@gmail.com** </span>
+  How to reach me: **mohammadrezaafroozi@gmail.com** </span>![hello-world-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f218d9f7-6867-4792-b032-1644a2ee5a7f)
 
 <h3 align="center">Connect with me:</h3>  
 <p align="center">
